@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PetPal CMS - Add Pet</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Add a New Pet</h1>
+    <form id="petForm">
+      <label for="petName">Pet Name:</label>
+      <input type="text" id="petName" name="petName" required>
+
+      <label for="species">Species:</label>
+      <select id="species" name="species" required>
+        <option value="">Select Species</option>
+        <option value="Dog">Dog</option>
+        <option value="Cat">Cat</option>
+        <option value="Bird">Bird</option>
+        <option value="Rabbit">Rabbit</option>
+        <option value="Other">Other</option>
+      </select>
+
+      <label for="breed">Breed:</label>
+      <input type="text" id="breed" name="breed">
+
+      <label for="birthdate">Birthdate:</label>
+      <input type="date" id="birthdate" name="birthdate" required>
+
+      <button type="submit">Save Pet</button>
+    </form>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/PetPalCMS/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq\u002BFeCj8r5J4g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"842"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq\u002BFeCj8r5J4g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 03:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PetPalCMS/css/style.kc8k3tj4rd.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kc8k3tj4rd"},{"Name":"integrity","Value":"sha256-RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq\u002BFeCj8r5J4g="},{"Name":"label","Value":"_content/PetPalCMS/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"842"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq\u002BFeCj8r5J4g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 03:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PetPalCMS/index.0vy4twe12k.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0vy4twe12k"},{"Name":"integrity","Value":"sha256-hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg="},{"Name":"label","Value":"_content/PetPalCMS/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 03:11:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PetPalCMS/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 03:11:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PetPalCMS/js/main.254f74h6bj.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"254f74h6bj"},{"Name":"integrity","Value":"sha256-SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI="},{"Name":"label","Value":"_content/PetPalCMS/js/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"745"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 03:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PetPalCMS/js/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"745"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 03:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

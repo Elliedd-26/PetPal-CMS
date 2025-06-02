@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "WuJJRvCPVUq3M1flxo9U5IBK+g+90vOucf50dKVuFuI=",
+  "Source": "PetPalCMS",
+  "BasePath": "_content/PetPalCMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PetPalCMS/wwwroot",
+      "Source": "PetPalCMS",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/wwwroot/",
+      "BasePath": "_content/PetPalCMS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/2rwncrxsy7-254f74h6bj.gz",
+      "SourceId": "PetPalCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PetPalCMS",
+      "RelativePath": "js/main#[.{fingerprint=254f74h6bj}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ellie_Main/PetPalCMS/wwwroot/js/main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dqss0yh9cq",
+      "Integrity": "dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ellie_Main/PetPalCMS/wwwroot/js/main.js"
+    },
+    {
+      "Identity": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/ndxr79bcv6-0vy4twe12k.gz",
+      "SourceId": "PetPalCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PetPalCMS",
+      "RelativePath": "index#[.{fingerprint=0vy4twe12k}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ellie_Main/PetPalCMS/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tx4cdvvey2",
+      "Integrity": "AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ellie_Main/PetPalCMS/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/z36bwxds88-kc8k3tj4rd.gz",
+      "SourceId": "PetPalCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PetPalCMS",
+      "RelativePath": "css/style#[.{fingerprint=kc8k3tj4rd}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ellie_Main/PetPalCMS/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "u72g2a4xb9",
+      "Integrity": "xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ellie_Main/PetPalCMS/wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/Users/ellie_Main/PetPalCMS/wwwroot/css/style.css",
+      "SourceId": "PetPalCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/wwwroot/",
+      "BasePath": "_content/PetPalCMS",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kc8k3tj4rd",
+      "Integrity": "RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/Users/ellie_Main/PetPalCMS/wwwroot/index.html",
+      "SourceId": "PetPalCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/wwwroot/",
+      "BasePath": "_content/PetPalCMS",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0vy4twe12k",
+      "Integrity": "hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/ellie_Main/PetPalCMS/wwwroot/js/main.js",
+      "SourceId": "PetPalCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ellie_Main/PetPalCMS/wwwroot/",
+      "BasePath": "_content/PetPalCMS",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "254f74h6bj",
+      "Integrity": "SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/z36bwxds88-kc8k3tj4rd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002314814815"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/z36bwxds88-kc8k3tj4rd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.kc8k3tj4rd.css",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/z36bwxds88-kc8k3tj4rd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002314814815"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kc8k3tj4rd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.kc8k3tj4rd.css",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kc8k3tj4rd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RA7mR7CwMyxLlNia6j6YzHu0lM9Dv1Qq+FeCj8r5J4g="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.kc8k3tj4rd.css.gz",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/z36bwxds88-kc8k3tj4rd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kc8k3tj4rd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xmYFspWts+DalhTPE7TcKl8GtyM8gJB9g/QtkRWVItE="
+        }
+      ]
+    },
+    {
+      "Route": "index.0vy4twe12k.html",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/ndxr79bcv6-0vy4twe12k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002053388090"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vy4twe12k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg="
+        }
+      ]
+    },
+    {
+      "Route": "index.0vy4twe12k.html",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vy4twe12k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg="
+        }
+      ]
+    },
+    {
+      "Route": "index.0vy4twe12k.html.gz",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/ndxr79bcv6-0vy4twe12k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vy4twe12k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/ndxr79bcv6-0vy4twe12k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002053388090"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJl9C7haDPSyu9ii1ky18Hed2GPMPDxsG6Xaj0GGzLg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/ndxr79bcv6-0vy4twe12k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AR1kUSdm9FEz55vp8/BkbzhIXJY3cZM9gVQos7d+K0w="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.254f74h6bj.js",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/2rwncrxsy7-254f74h6bj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002475247525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "254f74h6bj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.254f74h6bj.js",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/wwwroot/js/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "254f74h6bj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.254f74h6bj.js.gz",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/2rwncrxsy7-254f74h6bj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "254f74h6bj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/2rwncrxsy7-254f74h6bj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002475247525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/wwwroot/js/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SraKZlNCgVfmbzYosTSPFNip8LSqbBPpJgj0ldpmPjI="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js.gz",
+      "AssetFile": "/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/2rwncrxsy7-254f74h6bj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 03:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZjShEtDc7gyEm2tDrc+ts5KxEbNeotlRybwqbR9F64="
+        }
+      ]
+    }
+  ]
+}
