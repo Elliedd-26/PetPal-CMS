@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetPalCMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862645a9f5c0fd08f2e59c0fc844b578184089f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetPalCMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetPalCMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

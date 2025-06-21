@@ -196,3 +196,4 @@
 /Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/z36bwxds88-kc8k3tj4rd.gz
 /Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/ndxr79bcv6-0vy4twe12k.gz
 /Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/compressed/2rwncrxsy7-254f74h6bj.gz
+/Users/ellie_Main/PetPalCMS/obj/Debug/net9.0/PetPalCMS.sourcelink.json

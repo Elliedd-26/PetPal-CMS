@@ -12,7 +12,7 @@ namespace PetPalCMS.Models
         public DateTime Birthdate { get; set; }
 
         // Navigation properties
-        public ICollection<VaccinationRecord> VaccinationRecords { get; set; }
-        public ICollection<DewormingRecord> DewormingRecords { get; set; }
+        public ICollection<VaccinationRecord>? VaccinationRecords { get; set; }
+        public ICollection<DewormingRecord>? DewormingRecords { get; set; }
     }
 }
